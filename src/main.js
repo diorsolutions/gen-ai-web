@@ -4,6 +4,7 @@ const sendButton = document.getElementById('sendButton')
 const themeToggle = document.getElementById('themeToggle')
 
 let isLoading = false
+// first line commit
 
 function initTheme() {
 	const savedTheme = localStorage.getItem('theme') || 'light'
