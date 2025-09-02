@@ -5,7 +5,15 @@ Fast, minimalist web client for Google’s **Gemini** models. Built with **Vite*
 > **Stack**: Vite 7 · Vanilla JS (framework-agnostic) · `@google/genai` (Gemini JS SDK) · ESM · CSS utilities
 
 ---
+## Let's see:😉
 
+### Pretty animation waiting
+<img width="1920" height="986" alt="image" src="https://github.com/user-attachments/assets/73b06437-39df-445f-9f66-8489d4d462a8" />
+
+### Advanced Markdown Support
+<img width="1920" height="975" alt="image" src="https://github.com/user-attachments/assets/e3384629-4f86-4379-a233-0747c74d5367" />
+
+---
 ## Why this exists
 
 You want a tiny, modern front‑end that talks to Gemini, answers fast, and *feels* fast. This repo gives you:
