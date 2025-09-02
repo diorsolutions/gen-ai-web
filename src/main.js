@@ -320,7 +320,7 @@ async function sendMessage() {
   showLoading(message);
 
   try {
-    const response = await fetch("https://gen-ai-b9bb.onrender.com/prompt", {
+    const response = await fetch("http://localhost:3000/prompt", {
   method: "POST",
   headers: {
     "Content-Type": "application/json",
